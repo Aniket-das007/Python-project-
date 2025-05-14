@@ -1,3 +1,2 @@
 x=45e3
 print(x)
-print("hello world" )
